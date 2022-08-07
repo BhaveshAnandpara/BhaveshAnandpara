@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing B.Tech in Computer Engineering from Bajaj Instiute of Technology, Wardha.
 
-- 🌱 Currently learning **Machine Learning**
+- 🌱 Currently exploring **Web Development** and learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhaveshAnandpara](https://github.com/BhaveshAnandpara)
 
