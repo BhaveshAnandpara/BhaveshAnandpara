@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bhaveshanandpaar12@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j7otQBAIP4x5iE5JmWJnGDuRGRCSNIwf/view?usp=sharing](https://drive.google.com/file/d/1j7otQBAIP4x5iE5JmWJnGDuRGRCSNIwf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1j7otQBAIP4x5iE5JmWJnGDuRGRCSNIwf/view?usp=sharing)
 
 - ⚡ Fun fact **I love Cinema ✨**
 
