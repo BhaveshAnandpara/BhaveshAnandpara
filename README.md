@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshanandpara&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshanandpara" /> </p>
 
-- 🔭 I’m currently working on [My Daily Data Structure Practice Questions](https://github.com/BhaveshAnandpara/CP-Batch-0)
+- 🔭 I’m currently working on [My Daily Data Structure Practice Questions](https://github.com/BhaveshAnandpara/megaproject-final)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 🤝 I’m looking for help with **Express.js Projects**
+- 🤝 I’m looking for help with **Deep Learning Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BhaveshAnandpara?](https://github.com/BhaveshAnandpara?)
 
-- 💬 Ask me about **React, REST APIs**
+- 💬 Ask me about **React, REST APIs and Fullstack Web Developement**
 
-- 📫 How to reach me **bhaveshanandpaar12@gamil.com**
+- 📫 How to reach me **careers.bhavesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j7otQBAIP4x5iE5JmWJnGDuRGRCSNIwf/view?usp=sharing](https://drive.google.com/file/d/1j7otQBAIP4x5iE5JmWJnGDuRGRCSNIwf/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1bKGS_t7lnm93h9QX2kiZS4cK1AAeOOeu6KRW4KNpaf0/edit)
 
 - ⚡ Fun fact **I love Cinema ✨**
 
