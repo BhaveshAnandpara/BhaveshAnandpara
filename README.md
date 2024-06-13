@@ -5,19 +5,17 @@
 
 - 🔭 I’m currently working on [UMMEED : A Enhanced Mental Health Platform](https://github.com/BhaveshAnandpara/megaproject-final)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 🤝 I’m looking for help with **Deep Learning Projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/BhaveshAnandpara?](https://github.com/BhaveshAnandpara?)
 
-- 💬 Ask me about **React, REST APIs and Fullstack Web Developement**
+- 💬 Ask me about **Fullstack Web Developement**
 
 - 📫 How to reach me **careers.bhavesh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1bKGS_t7lnm93h9QX2kiZS4cK1AAeOOeu6KRW4KNpaf0/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1su_ZTiNhgn0c9N305V1TIknvBnt9K3eHJGVjrvQJW7E/edit?usp=sharing)
 
 - ⚡ Fun fact **I love Cinema ✨**
 
